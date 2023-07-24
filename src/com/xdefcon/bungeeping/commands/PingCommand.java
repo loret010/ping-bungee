@@ -1,4 +1,4 @@
-package com.xdefcon.bungeeping.commands;
+ackage com.xdefcon.bungeeping.commands;
 
 import com.xdefcon.bungeeping.BungeePing;
 import net.md_5.bungee.api.ChatColor;
